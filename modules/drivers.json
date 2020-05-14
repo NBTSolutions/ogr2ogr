@@ -22,7 +22,7 @@
   {
     "format": "ESRI Shapefile",
     "aliases": ["shp", "prj", "shx", "dbf"],
-    "output": "zip"
+    "output": ""
   },
   {
     "format": "Geoconcept",
